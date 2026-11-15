@@ -6,10 +6,10 @@
 
 ## Pleos에서 실행하기
 
-[서명된 release APK](apk/SA_고르게_release.apk) · [SHA-256](apk/SHA256SUMS.txt)
+[서명된 release APK](apk/윤희준_고르게_release.apk) · [SHA-256](apk/SHA256SUMS.txt)
 
 ```sh
-adb install -r "apk/SA_고르게_release.apk"
+adb install -r "apk/윤희준_고르게_release.apk"
 adb shell am start -n io.cellbalance.app/.MainActivity
 ```
 
