@@ -1,0 +1,11 @@
+.DS_Store
+.gradle/
+.kotlin/
+.idea/
+build/
+local.properties
+*.jks
+*.keystore
+*.idsig
+.env*
+__pycache__/
